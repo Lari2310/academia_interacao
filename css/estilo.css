@@ -2,7 +2,8 @@
     margin: 0px;
     padding: 0px }
 
-body{font-family: 'Calibri',arial,helvetica;}
+body{font-family: 'Calibri',arial,helvetica;
+widht:1000px; hight:802px;}
 
 header{ width: 100%; 
     float: left; /* Psição dos botões header lado a lado do logo */
